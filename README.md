@@ -23,7 +23,7 @@ The TreeAPI provides a RESTful API for managing the in-dependent trees. The API 
 - **POST /api/UserTreeNode/deleteNode**: deletes new node in the tree.
 - **POST /api/UserTreeNode/renameNode**: renames new node in the tree.
 
-- **POST /api/UserJournal/GetRang**: Retrieves Journals between 2 dates, has properties to skip and take from output of result
+- **POST /api/UserJournal/GetRange**: Retrieves Journals between 2 dates, has properties to skip and take from output of result
 - **POST /api/UserJournal/GetSingle**: Retrieves a specific Journal by its ID.
 
 Please refer to the Swagger documentation for detailed information on each endpoint and their expected request/response formats.
